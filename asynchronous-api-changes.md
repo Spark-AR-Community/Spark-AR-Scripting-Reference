@@ -4,8 +4,6 @@ description: With v85 of Spark AR Studio the current JavaScript API will be depr
 
 # Asynchronous API Changes \(v85+\)
 
-## Asynchronous API Changes \(v85+\) <a id="asynchronous-api-changes--v85--"></a>
-
 With v85 of Spark AR Studio the current JavaScript API will be deprecated in favor of asynchronous APIs.
 
 This means some APIs will be deprecated and will need to be replaced in your projects. When creating new projects, new APIs should be used instead.
