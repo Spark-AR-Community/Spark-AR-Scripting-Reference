@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Spark AR Scripting Reference](README.md)
+* [Asynchronous API Changes \(v85+\)](asynchronous-api-changes-v85.md)
 * [Custom Instructions](custom-instructions.md)
 * [AnimationModule](animationmodule/README.md)
   * [ValueDriver](animationmodule/valuedriver.md)
@@ -178,5 +179,4 @@
   * [RotateGesture](touchgesturesmodule/rotategesture.md)
   * [TapGesture](touchgesturesmodule/tapgesture.md)
 * [UnitsModule](unitsmodule.md)
-* [Asynchronous API Changes \(v85+\)](asynchronous-api-changes-v85.md)
 
