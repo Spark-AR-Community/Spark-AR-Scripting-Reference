@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Spark AR Scripting Reference](README.md)
+* [Asynchronous API Changes \(v85+\)](asynchronous-api-changes-v85.md)
 * [Custom Instructions](custom-instructions.md)
 * [AnimationModule](animationmodule/README.md)
   * [ValueDriver](animationmodule/valuedriver.md)
@@ -24,6 +25,15 @@
 * [FaceGesturesModule](facegesturesmodule.md)
 * [FaceTracking2DModule](facetracking2dmodule/README.md)
   * [Face2D](facetracking2dmodule/face2d.md)
+* [FaceTrackingModule](facetrackingmodule/README.md)
+  * [Cheek](facetrackingmodule/cheek.md)
+  * [Chin](facetrackingmodule/chin.md)
+  * [Eye](facetrackingmodule/eye.md)
+  * [Eyebrow](facetrackingmodule/eyebrow.md)
+  * [Face](facetrackingmodule/face.md)
+  * [Forehead](facetrackingmodule/forehead.md)
+  * [Mouth](facetrackingmodule/mouth.md)
+  * [Nose](facetrackingmodule/nose.md)
 * [FontsModule](fontsmodule/README.md)
   * [FontId](fontsmodule/fontid.md)
 * [HandTrackingModule](handtrackingmodule/README.md)
