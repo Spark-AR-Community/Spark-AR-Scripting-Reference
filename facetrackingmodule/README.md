@@ -51,15 +51,15 @@ planeTransform.scaleY = mouthOpenness;
 
 ## Properties
 
-|Property|Description|
-|:---|:---|
-|`count`|`(get) count: ScalarSignal (set) (Not Available)` <br /> Returns a `ScalarSignal` representing the number of faces tracked in the scene.|
+| Property | Description |
+| :--- | :--- |
+| `count` | `(get) count: ScalarSignal (set) (Not Available)`   Returns a `ScalarSignal` representing the number of faces tracked in the scene. |
 
 ## Methods
 
-|Method|Description|
-|:---|:---|
-| `face` | `face(index: number): Face` <br /> Returns the `Face` object from the detected face array at the specified index.|
+| Method | Description |
+| :--- | :--- |
+| `face` | `face(index: number): Face`   Returns the `Face` object from the detected face array at the specified index. |
 
 ## Classes
 
