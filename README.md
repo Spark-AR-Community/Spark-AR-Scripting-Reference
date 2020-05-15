@@ -4,7 +4,7 @@
 
 The resources found on this repository are managed by the amazing :rainbow: contributors of the [Spark-AR-Community](https://github.com/Spark-AR-Community/).
 
-[GitBook Version \(indexed, searchable\)](https://sparkar-community.gitbook.io/docs/) – Sponsored by [Noland Chaliha](https://github.com/yearofthewhopper)
+* [GitBook Version \(indexed, searchable\)](https://sparkar-community.gitbook.io/docs/) – Sponsored by [Noland Chaliha](https://github.com/yearofthewhopper)
 
 * [Summary of all availables modules](https://github.com/Spark-AR-Community/Spark-AR-Scripting-Reference/tree/b45629cdf3b957fb7ac7ade3e9c472ac251e6de4/SUMMARY.md)
 * [Asynchronous API Changes \(v85+\)](https://github.com/Spark-AR-Community/Spark-AR-Scripting-Reference/tree/b45629cdf3b957fb7ac7ade3e9c472ac251e6de4/asynchronous-api-changes.md)
