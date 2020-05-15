@@ -1,6 +1,7 @@
-:sparkles::sparkles::sparkles:
-
 # Spark AR Scripting Reference
+
+:sparkles: :sparkles: :sparkles:
+
 The resources found on this repository are managed by the amazing :rainbow: contributors of the [Spark-AR-Community](https://github.com/Spark-AR-Community/). 
 
 - [GitBook Version \(indexed, searchable\)](https://sparkar-community.gitbook.io/docs/) – Sponsored by [Noland Chaliha](https://github.com/yearofthewhopper)
@@ -23,4 +24,4 @@ The resources found on this repository are managed by the amazing :rainbow: cont
 
 - [Awesome Spark AR](https://github.com/Spark-AR-Community/awesome-sparkar)
 
-:sparkles::sparkles::sparkles:
+:sparkles: :sparkles: :sparkles:
