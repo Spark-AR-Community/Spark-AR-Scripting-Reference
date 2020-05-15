@@ -178,4 +178,5 @@
   * [RotateGesture](touchgesturesmodule/rotategesture.md)
   * [TapGesture](touchgesturesmodule/tapgesture.md)
 * [UnitsModule](unitsmodule.md)
+* [Asynchronous API Changes \(v85+\)](asynchronous-api-changes-v85.md)
 
