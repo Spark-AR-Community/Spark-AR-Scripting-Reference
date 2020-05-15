@@ -23,7 +23,7 @@
 * [DiagnosticsModule](diagnosticsmodule.md)
 * [FaceGesturesModule](facegesturesmodule.md)
 * [FaceTracking2DModule](facetracking2dmodule/README.md)
-  * [Face2D](facetracking2dmodule/untitled.md)
+  * [Face2D](facetracking2dmodule/face2d.md)
 * [FontsModule](fontsmodule/README.md)
   * [FontId](fontsmodule/fontid.md)
 * [HandTrackingModule](handtrackingmodule/README.md)
