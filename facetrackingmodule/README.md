@@ -2,8 +2,6 @@
 
 The `FaceTrackingModule` class enables tracking faces in 3D.
 
-New Update
-
 ## Example
 
 ```text
@@ -53,47 +51,17 @@ planeTransform.scaleY = mouthOpenness;
 
 ## Properties
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Property</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>count</code>
-      </td>
-      <td style="text-align:left">
-        <p><code>(get) count: ScalarSignal (set) (Not Available)</code>
-        </p>
-        <p>Returns a <code>ScalarSignal</code> representing the number of faces tracked
-          in the scene.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>## Methods
+|Property|Description|
+|:---|:---|
+|`count`|`(get) count: ScalarSignal (set) (Not Available)` Returns a `ScalarSignal` representing the number of faces tracked in the scene.|
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Method</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>face</code>
-      </td>
-      <td style="text-align:left">
-        <p><code>face(index: number): Face</code>
-        </p>
-        <p>Returns the <code>Face</code> object from the detected face array at the
-          specified index.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>## Classes
+## Methods
+
+|Method|Description|
+|:---|:---|
+| `face` | `face(index: number): Face` Returns the `Face` object from the detected face array at the specified index.|
+
+## Classes
 
 | Class | Description |
 | :--- | :--- |
