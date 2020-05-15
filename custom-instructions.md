@@ -4,8 +4,6 @@ description: 'Latest Version: 15.05.2020'
 
 # Custom Instructions
 
-Updates are made to [hongweitang/sparkar-custom-instructions](https://github.com/hongweitang/sparkar-custom-instructions/blob/master/customInstructions.md) and pushed to the list here.
-
 Here is list of all available custom instructions in Spark AR capabilities menu:
 
 * This effect uses flashing images, Token: `effect_uses_flashing_images`
