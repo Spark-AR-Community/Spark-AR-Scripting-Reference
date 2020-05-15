@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Asynchronous API Changes \(v85+\)](README.md)
+* [Spark AR Scripting Reference](README.md)
 * [Custom Instructions](custom-instructions.md)
 * [AnimationModule](animationmodule/README.md)
   * [ValueDriver](animationmodule/valuedriver.md)
