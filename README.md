@@ -1,13 +1,19 @@
-:sparkles:
+:sparkles::sparkles::sparkles:
 
-# Spark Ar Scripting Reference
-The resources found on this repository are managed by the contributors of @Spark-AR-Community
+# Spark AR Scripting Reference
+The resources found on this repository are managed by the amazing :rainbow: contributors of the [Spark-AR-Community](https://github.com/Spark-AR-Community/). 
 
-- [GitBook Version (indexed, searchable)](https://sparkar-community.gitbook.io/docs/) – Sponsored by [Noland Chaliha](https://github.com/yearofthewhopper)
+- [GitBook Version \(indexed, searchable\)](https://sparkar-community.gitbook.io/docs/) – Sponsored by [Noland Chaliha](https://github.com/yearofthewhopper)
 
-- [Overview of availables modules](SUMMARY.md)
+- [Summary of all availables modules](SUMMARY.md)
 
-> If you have something to add or you want to contribute to the community get in contact with one of the current contributors.
+- [Asynchronous API Changes \(v85+\)](asynchronous-api-changes.md)
+
+- [Custom instructions](custom-instructions.md)
+
+> :rotating_light: Please inform us if there are errors or typos in our resources.
+
+> :raising_hand: If you have something to add or you want to actively contribute to the community get in contact with one of the current contributor.
 
 ## More Resources
 
@@ -16,3 +22,5 @@ The resources found on this repository are managed by the contributors of @Spark
 - [Community-managed Resources](https://github.com/Spark-AR-Community/)
 
 - [Awesome Spark AR](https://github.com/Spark-AR-Community/awesome-sparkar)
+
+:sparkles::sparkles::sparkles:

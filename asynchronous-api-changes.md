@@ -1,8 +1,8 @@
-# Asynchronous API Changes \(v85+\)
+---
+description: With v85 of Spark AR Studio the current JavaScript API will be deprecated in favor of asynchronous APIs.
+---
 
-| description: |
-| --- |
-| With v85 of Spark AR Studio the current JavaScript API will be deprecated in favor of asynchronous APIs.|
+# Asynchronous API Changes \(v85+\)
 
 ## Asynchronous API Changes \(v85+\) <a id="asynchronous-api-changes--v85--"></a>
 
@@ -19,7 +19,7 @@ If you’re using a deprecated API, you’ll:
 1. See a message in Spark AR Studio when you open the project.
 2. Get an email and notification to let you know how to update it.
 
-### New APIs <a id="new-apis"></a>
+## New APIs <a id="new-apis"></a>
 
 ## Deprecated `BlendShapesMesh`
 
