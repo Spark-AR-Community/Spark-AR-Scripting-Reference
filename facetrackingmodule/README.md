@@ -2,6 +2,8 @@
 
 The `FaceTrackingModule` class enables tracking faces in 3D.
 
+New Update
+
 ## Example
 
 ```text
