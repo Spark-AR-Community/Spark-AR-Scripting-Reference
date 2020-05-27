@@ -16,7 +16,7 @@ Step Zero: Uncheck Facebook from your publishing platform preferences in the Edi
 
 **Step 2: Add Audio Analyzer Patch to patch graph**
 
-![](.gitbook/assets/2020-05-27-at-1.53.25-pm%20%281%29.jpg)
+![Step 4. Find Audio Analyzer patch-- click add patch to add object](.gitbook/assets/2020-05-27-at-1.53.25-pm%20%281%29.jpg)
 
 **Step 3. Click + add object \(or left click in the scene hierarchy\)** 
 
@@ -28,13 +28,13 @@ Step Zero: Uncheck Facebook from your publishing platform preferences in the Edi
 
 **Step 7. Connect Audio Analyzer output to the speaker you added to the scene in Step 1.**
 
-![](.gitbook/assets/2020-05-27-at-2.02.56-pm.jpg)
+![Step 7. Connect Audio Analyzer output to the speaker you added to the scene in Step 1.](.gitbook/assets/2020-05-27-at-2.02.56-pm.jpg)
 
 **Step 8. Send the effect to instagram camera to test.** 
 
 To test this effect you must mirror to your Instagram Camera and record in instagram to activate the music analyzer 
 
-![](.gitbook/assets/2020-05-27-at-2.11.17-pm.jpg)
+![Step 8. Send the effect to instagram camera to test. ](.gitbook/assets/2020-05-27-at-2.11.17-pm.jpg)
 
 {% hint style="info" %}
 Note: At the moment the Audio Analyzer patch only works on the instagram platform
