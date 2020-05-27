@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Spark AR Scripting Reference](README.md)
+* [Audio Analyzer / Energy Meter](audio-analyzer-energy-meter.md)
 * [Asynchronous API Changes \(v85+\)](asynchronous-api-changes-v85.md)
 * [Custom Instructions](custom-instructions.md)
 * [AnimationModule](animationmodule/README.md)

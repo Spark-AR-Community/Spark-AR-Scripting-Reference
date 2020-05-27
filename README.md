@@ -10,7 +10,7 @@ The resources found on this repository are managed by the amazing :rainbow: cont
 * [Custom instructions](custom-instructions.md)
 
 > :rotating\_light: Please inform us if there are errors or typos in our resources.
-
+>
 > :raising\_hand: If you have something to add or you want to actively contribute to the community get in contact with one of the current contributor.
 
 ## More Resources
