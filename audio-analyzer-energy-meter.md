@@ -6,7 +6,7 @@ description: Audio Analyzer walkthrough
 
 ## Setting up a scene with Audio Analyzer
 
-Step Zero: Uncheck Facebook from your publishing platform preferences in the Edit Preferences panel
+Step Zero: Uncheck Facebook from your publishing platform preferences in the Edit Properties panel
 
 ![uncheck Facebook from Select Platforms](.gitbook/assets/2020-05-27-at-2.12.35-pm.jpg)
 
