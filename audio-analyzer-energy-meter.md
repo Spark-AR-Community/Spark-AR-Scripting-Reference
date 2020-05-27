@@ -18,7 +18,7 @@ Step Zero: Uncheck Facebook from your publishing platform preferences in the Edi
 
 ![](.gitbook/assets/2020-05-27-at-1.53.25-pm%20%281%29.jpg)
 
-**Step 3. Click + add object or left click in the scene click +add object or left click in the scene hierarchy to add object**
+**Step 3. Click + add object \(or left click in the scene hierarchy\)** 
 
 **Step 4. Find Audio Analyzer patch-- click add patch to add object**
 
